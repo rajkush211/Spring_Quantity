@@ -1,5 +1,7 @@
 package com.bridgelabz.quantityconversion.service;
 
+import org.springframework.stereotype.Component;
+
 import static com.bridgelabz.quantityconversion.service.Quantity.*;
 
 public enum QuantityUnits {
